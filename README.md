@@ -41,4 +41,4 @@ Este endpoint permite validar y formatear un RUT, y obtener datos de una API ext
 
 Método: GET
 URL: /rut?rut=<RUT>
-Reemplaza <RUT> con el RUT que deseas validar (sin puntos y con guion, por ejemplo, 11111111-1).
+Reemplaza <RUT> con el RUT que deseas validar (sin puntos y con guion, por ejemplo, /rut?rut=11111111-1).
