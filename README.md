@@ -19,6 +19,7 @@ Este proyecto proporciona una API para validar y obtiene información relacionad
 ### 1. Clonar el repositorio
 
 git clone https://github.com/fvndreh/scrapper-rut
+
 cd scrapper-rut
 
 ### 2. Crear un entorno virtual
